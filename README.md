@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me on here!
+- 📫 How to reach me ... on here!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak Arabic and English!
 
